@@ -1,0 +1,21 @@
+{
+  "name": "parcel-transformer-ejs-raw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "parcel": "^2.2.1"
+  },
+  "engines": {
+    "node": ">= 12.0.0",
+    "parcel": "^2.2.1"
+  },
+  "keywords": [
+    "parcel",
+    "ejs",
+    "template",
+    "raw"
+  ],
+  "author": "Ajay Krishna Reddy<ajaykrish.nalla@gmail.com>",
+  "license": "ISC",
+  "repository": "https://github.com/ajaykrishnalla/parcel-transformer-ejs-raw"
+}
